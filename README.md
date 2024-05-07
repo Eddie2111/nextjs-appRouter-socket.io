@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) nested project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Node.JS](https://nodejs.org) with [Socket.IO](https://socket.io).
+# This is a [Next.js](https://nextjs.org/) nested project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Node.JS](https://nodejs.org) with [Socket.IO](https://socket.io).
 
 ## Overview
 
